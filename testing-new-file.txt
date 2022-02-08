@@ -5,3 +5,6 @@ This is from another commit.
 This is from commit after squash.
 
 Andrie commit 1 line
+
+
+Andire commit 2 line
