@@ -1,5 +1,8 @@
 Hello, file!
 
+
+Andrie commit 3 line
+
 This is from another commit.
 
 This is from commit after squash.
