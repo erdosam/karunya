@@ -1,4 +1,4 @@
-node() {
+node('built-in') {
     stage('Checkout') {
     }
 }
