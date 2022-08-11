@@ -1,4 +1,4 @@
-node('workers') {
+node() {
     stage('Checkout') {
     }
 }
